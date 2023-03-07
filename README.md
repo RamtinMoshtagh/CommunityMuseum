@@ -3,7 +3,7 @@
 
 
 ## Description
-Purpose if this page is to give kids and junior youth an easy and joyful webpage with information about the Community Science Museum. 
+Purpose of this page is to give kids and junior youth an easy and joyful webpage with information about the Community Science Museum. 
 Netlify: https://communitymuseum2022.netlify.app
 ## Built With
 - JS
