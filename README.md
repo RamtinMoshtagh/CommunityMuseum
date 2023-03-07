@@ -11,5 +11,5 @@ Netlify: https://communitymuseum2022.netlify.app
 - HTML
 
 ## Contact
-Work: ramtin@zen-math.no
-Normal: ramtinmoshtagh@gmail.com
+- Work: ramtin@zen-math.no
+- Normal: ramtinmoshtagh@gmail.com
